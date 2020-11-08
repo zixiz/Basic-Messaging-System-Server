@@ -1,2 +1,5 @@
 .env
+.envProduction
+.vscode
+.idea
 /node_modules
